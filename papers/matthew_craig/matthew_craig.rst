@@ -20,9 +20,9 @@
 
 :video: http://www.youtube.com/watch?v=dhRUe-gz690
 
-------------------------------------------------
-A Numerical Perspective to Terraforming a Desert
-------------------------------------------------
+------------------------------------------------------
+VPython: 3D Visualization of Physical Models Made Easy
+------------------------------------------------------
 
 .. class:: abstract
 
@@ -35,7 +35,13 @@ A Numerical Perspective to Terraforming a Desert
 Introduction
 ------------
 
+Though the VPython package was originally developed for use in introductory physics classrooms, it has the potential to be useful in a much broader variety of settings.
 
+1. Examples first; emphasize that displays can be static or dynamic, generated as the computation is ongoing, or after the fact.
+2. At least one example used to visualize 3d (kind of like ipyvolume) and one to visualize time (or some other parameter) evolution.
+3. Available environments -- this is both a strength and a weakness.
+4. Architecture -- Bruce's stuff is good for this
+5. Ease of use for novices
 
 Important Part
 --------------
